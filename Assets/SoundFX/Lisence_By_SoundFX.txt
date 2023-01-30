@@ -1,0 +1,8 @@
+menu_click : https://freesound.org/people/pumodi/sounds/150222/
+HTPRoom : https://freesound.org/people/vikuserro/sounds/265549/
+RankRoom : https://freesound.org/people/Migfus20/sounds/560738/
+TitleRoom : https://freesound.org/people/Mrthenoronha/sounds/518918/
+CreditsRoom : https://freesound.org/people/Robinhood76/sounds/268693/
+GameOver : https://freesound.org/people/ProjectsU012/sounds/333785/
+AllClear : https://freesound.org/people/humanoide9000/sounds/466133/
+InGame : https://freesound.org/people/StudioOneBeatMakers/sounds/463425/
