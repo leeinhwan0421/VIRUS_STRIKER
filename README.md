@@ -1,10 +1,8 @@
-# VIRUS_STRIKER
-2021 지방기능경기대회 출전 작품 입니다.
+<div align="center">
+  <h1>VIRUS_STRIKER</h1>
+  <p>2021 지방기능경기대회 출전 작품 입니다.</p>
+  <p>강사분, 디자이너분과 함께 제작하였습니다</p>
 
-강사분, 디자이너분과 함께 제작하였습니다
-
-direct sdk june 2010 version을 다운하시고  
-
-솔루션 파일을 Visual Studio 프로그램으로 열어줍니다.
-
-그 후, x86으로 실행해주세요 ( 또는 수정됨_a0001.png와 같은 파일의 이름을 모두 a0001.png와 같은 꼴로 변경 후, x64로 실행하는 방법이 있음 )
+  <h3> 플레이 영상 </h3>
+  <p> 플레이 영상은 <a href="https://www.youtube.com/watch?v=5EcX5imVGHo">여기</a> 에서 홗인하실 수 있습니다.</p>
+</div>
