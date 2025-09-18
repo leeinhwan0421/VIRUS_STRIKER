@@ -22,7 +22,7 @@
 | 스피드 바이러스 |<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d0b654f5-e89c-4437-a9ea-f0b212e9e9a8" />| 매우 빠르지만, 크기가 작다. 벽에 부딪힐 때 잠시 빨라지는 특징이 있다. |
 
 # 아이템 설명
-| **기능** | **이미지** | **설명** |
+| **이름** | **이미지** | **설명** |
 |----------|-------|------------|
 | 무적 아이템 |<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c32ff3aa-e9d6-48ae-89ea-4f56decc75fe" />| 일정 시간동안 플레이어에게 무적 시간을 부여합니다. |
 | 회복 아이템 |<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8692463a-19ad-4519-94cb-ab07e2eb3d04">| 플레이어에게 체력을 제공합니다, 이미 체력이 가득 차 있다면 점수를 제공합니다. |
